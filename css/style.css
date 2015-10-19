@@ -1,0 +1,73 @@
+#group2 .parallax__layer--back {
+    background-image: url("/img/tgd.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#group3 .parallax__layer--base {
+    background-image: url("/img/ele.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#group4 .parallax__layer--deep {
+    background-image: url("/img/ler.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#group5 .parallax__layer--base {
+    background-image: url("/img/ecl.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#group6 .parallax__layer--back {
+    background-image: url("/img/ges.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#group7 .parallax__layer--base {
+    background-image: url("/img/evd.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    max-width: 50rem;
+}
+
+h1 {
+    letter-spacing: 3.5rem;
+    font-size: 2rem;
+    color: #ff5040;
+}
+
+.logo span {
+    color: #ff5040;
+    font-size: 2.5rem;
+}
+.logo span:hover {
+        color: #f5f9fa;
+    transition: all .3s ease;
+
+}
+
+.logo img {
+    height: 2rem;
+    vertical-align: initial;
+}
+
+.logo {
+    padding: 2rem;
+}
+
+iframe {
+    border: 0; width: 100%; height: 100%;
+    
+}
+
+.sb-menu {
+    margin-top: 10rem;
+}
